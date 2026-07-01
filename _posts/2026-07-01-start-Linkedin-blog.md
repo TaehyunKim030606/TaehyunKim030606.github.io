@@ -4,14 +4,7 @@ date: 2026-07-01 10:00:00 +1000
 categories: [Study, LinkedIn]
 tags: [LinkedIn,SNS]
 ---
----
-
-title: "LinkedIn 프로필 기본 정보 입력 기록"
-date: 2026-07-01 16:00:00 +0900
-categories: [Portfolio, LinkedIn]
-tags: [linkedin, portfolio, career, github-pages, developer-blog]
------------------------------------------------------------------
-
+-------------------------------
 # LinkedIn 프로필 기본 정보 입력 기록
 
 오늘은 개발자 포트폴리오를 준비하는 과정의 하나로 LinkedIn 프로필에 기본 정보를 입력했다.
