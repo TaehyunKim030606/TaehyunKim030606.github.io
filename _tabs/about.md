@@ -4,7 +4,7 @@ icon: fas fa-user
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+
 # 김태현
 
 안녕하세요.  
